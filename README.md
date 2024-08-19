@@ -362,3 +362,5 @@ PluginManager
     │   └── execute_plugin_action(action: str)
 
 ```
+
+A chat GPT conversation: https://chatgpt.com/c/742a80ce-e574-41be-b44b-260cc882f03b
