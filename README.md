@@ -106,11 +106,11 @@ Players are dropped into a vast, evolving world where every decision matters. Wh
 ```mermaid
 graph TD;
     Player[Player] -->|Manages| Resources[Resource Management]
-    Player -->|Controls| Locations[Territory Control]
+    Player -->|Claim or Challenges| Locations[Geolocalized Virtual Locations]
     Player -->|Engages in| Interactions[Conflicts & Resolutions]  
     Player -->|Forms| Alliances[Groups & Alliances]
     Resources -->|Generates| Wealth[Wealth Accumulation]
-    Locations -->|Provides| Advantages[Resources Over Time Bbenefits]
+    Locations -->|Provides| Advantages[Resources Over Time Benefits or Not]
     Interactions -->|Leads to| Outcomes[Winning & Settling & Losing Strategies]
     Alliances -->|Strengthens| Defense[Collaborative Protection]
 ```
