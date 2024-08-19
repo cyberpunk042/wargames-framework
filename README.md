@@ -111,7 +111,7 @@ graph TD;
     Player -->|Forms| Alliances[Player and Group Management]
     Resources -->|Generates| Wealth[Wealth Accumulation]
     Locations -->|Provides| Advantages[Resources over time Benefits]
-    Conflicts -->|Leads to| Outcomes[Winning & Settling & Losing Strategies]
+    Interactions -->|Leads to| Outcomes[Winning & Settling & Losing Strategies]
     Alliances -->|Strengthens| Defense[Collaborative Protection]
 ```
 
