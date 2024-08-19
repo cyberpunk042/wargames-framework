@@ -1,4 +1,4 @@
-# Wargames Framework
+# Wargames Framework (a draft)
 
 Welcome to the **Wargames Framework**! This repository provides a robust, scalable, and modular foundation for building large-scale multiplayer wargames. Whether you're a developer, game designer, or system architect, this framework is designed to be flexible and powerful, supporting a wide range of strategic game scenarios.
 
