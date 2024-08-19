@@ -108,7 +108,7 @@ graph TD;
     Player[Player] -->|Manages| Resources[Resource Management]
     Player -->|Controls| Locations[Territory Control]
     Player -->|Engages in| Interactions[Conflicts & Resolutions]  
-    Player -->|Forms| Alliances[Groups Management]
+    Player -->|Forms| Alliances[Groups & Alliances]
     Resources -->|Generates| Wealth[Wealth Accumulation]
     Locations -->|Provides| Advantages[Resources Over Time Bbenefits]
     Interactions -->|Leads to| Outcomes[Winning & Settling & Losing Strategies]
