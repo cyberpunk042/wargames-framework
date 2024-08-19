@@ -107,11 +107,11 @@ Players are dropped into a vast, evolving world where every decision matters. Wh
 graph TD;
     Player[Player] -->|Manages| Resources[Resource Management]
     Player -->|Controls| Locations[Territory Control]
-    Player -->|Engages in| Conflicts[Conflict Resolution]
+    Player -->|Engages in| Interactions[Conflict & Resolution]  
     Player -->|Forms| Alliances[Player and Group Management]
     Resources -->|Generates| Wealth[Wealth Accumulation]
-    Locations -->|Provides| Advantages[Strategic Benefits]
-    Conflicts -->|Leads to| Rewards[Winning Strategies]
+    Locations -->|Provides| Advantages[Resources over time Benefits]
+    Conflicts -->|Leads to| Outcomes[Winning \| Settling \| Losing Strategies]
     Alliances -->|Strengthens| Defense[Collaborative Protection]
 ```
 
