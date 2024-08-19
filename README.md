@@ -107,10 +107,10 @@ Players are dropped into a vast, evolving world where every decision matters. Wh
 graph TD;
     Player[Player] -->|Manages| Resources[Resource Management]
     Player -->|Controls| Locations[Territory Control]
-    Player -->|Engages in| Interactions[Conflict & Resolution]  
-    Player -->|Forms| Alliances[Player and Group Management]
+    Player -->|Engages in| Interactions[Conflicts & Resolutions]  
+    Player -->|Forms| Alliances[Groups Management]
     Resources -->|Generates| Wealth[Wealth Accumulation]
-    Locations -->|Provides| Advantages[Resources over time Benefits]
+    Locations -->|Provides| Advantages[Resources Over Time Bbenefits]
     Interactions -->|Leads to| Outcomes[Winning & Settling & Losing Strategies]
     Alliances -->|Strengthens| Defense[Collaborative Protection]
 ```
@@ -134,14 +134,6 @@ Forming alliances and working together with other players is key to success. Whe
 ### Continuous Growth and Challenge
 
 The framework is designed to keep players constantly engaged, with new challenges emerging as they progress. As players grow stronger and claim more territory, the game evolves to match their skill level, ensuring that the experience remains fresh and challenging.
-
-```mermaid
-graph TD;
-    Player --> Growth[Continuous Growth]
-    Growth --> NewChallenges[New Challenges]
-    NewChallenges --> Evolve[Game Evolves]
-    Evolve --> FreshExperience[Always Fresh and Challenging]
-```
 
 ---
 
