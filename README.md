@@ -26,7 +26,7 @@ This repository is organized into three main directories, each representing a cr
    - Bridges the infrastructure and game logic, ensuring seamless communication, synchronization, and security enforcement.
    - [Detailed Documentation](./integration-layer/README.md)
 
-...mermaid
+```mermaid
 graph LR;
     A[Wargames Framework] --> B[Infrastructure/Backend]
     A --> C[Internal Wargames Logic]
@@ -63,7 +63,7 @@ graph LR;
     C3 --> D2
     C4 --> D4
     C2 --> D3
-...
+```
 
 ## 🔧 Key Components
 
@@ -103,7 +103,7 @@ The Wargames Framework is designed not just as a technical marvel but as an enga
 
 Players are dropped into a vast, evolving world where every decision matters. Whether you're managing resources, forging alliances, or defending your territory, the game is full of strategic depth that keeps players engaged.
 
-...mermaid
+```mermaid
 graph TD;
     Player[Player] -->|Manages| Resources[Resource Management]
     Player -->|Interacts with| Locations[Territory Control]
@@ -113,7 +113,7 @@ graph TD;
     Locations -->|Provides| Strategic Advantages[Territory Benefits]
     Conflicts -->|Results in| Rewards[Winning Strategies]
     Alliances -->|Strengthens| Defense[Collaborative Protection]
-...
+```
 
 ### Dynamic Resource Management
 
@@ -135,13 +135,13 @@ Forming alliances and working together with other players is key to success. Whe
 
 The framework is designed to keep players constantly engaged, with new challenges emerging as they progress. As players grow stronger and claim more territory, the game evolves to match their skill level, ensuring that the experience remains fresh and challenging.
 
-...mermaid
+```mermaid
 graph TD;
     Player --> Growth[Continuous Growth]
     Growth --> NewChallenges[New Challenges]
     NewChallenges --> Evolve[Game Evolves]
     Evolve --> FreshExperience[Always Fresh and Challenging]
-...
+```
 
 ---
 
