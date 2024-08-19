@@ -1,0 +1,3 @@
+# Wargames Framework
+
+This repository contains the framework for building a scalable and modular wargames system...
